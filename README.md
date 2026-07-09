@@ -1,9 +1,8 @@
 ## 🌐 Live Demo
 
-Here is the link of the Streamlit application: **https://https://steel-surface-defect-prediction.streamlit.app//**
+Here is the link of the Streamlit application: **https://steel-surface-defect-prediction.streamlit.app/**
 
 Upload a steel surface image and get an instant defect prediction with a Grad-CAM heatmap — no installation needed.
-
 ---
 
 # 🔩 Steel Surface Defect Classification
