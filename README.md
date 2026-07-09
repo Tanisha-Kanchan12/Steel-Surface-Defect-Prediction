@@ -1,3 +1,11 @@
+## 🌐 Live Demo
+
+Here is the link of the Streamlit application: **https://https://steel-surface-defect-prediction.streamlit.app//**
+
+Upload a steel surface image and get an instant defect prediction with a Grad-CAM heatmap — no installation needed.
+
+---
+
 # 🔩 Steel Surface Defect Classification
 
 A deep learning project that classifies hot-rolled steel surface defects into 6 categories using a Convolutional Neural Network (CNN), built with PyTorch. Includes a Jupyter Notebook for training/analysis and a Streamlit web app for real-time predictions with Grad-CAM explainability.
